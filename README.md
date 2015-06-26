@@ -9,6 +9,10 @@ alerta de insegurança.
 * O script de leitura da porta serial do arduino e escrita no banco de dados não se encontra nessa pasta do github, 
 assim este projeto está contando apenas com o simulador de segurança.
 
+# Circuito
+> Neste protótipo foi utilizado um Arduino Mega, mas no projeto foi utilizado um Arduino Uno com uma placa de expansão. As conexões são exatamente iguais.
+<img src="https://github.com/lucasmlima08/DispLCD_DispSegmentos_Ultrassonico/blob/master/circuito.jpg" width="500"/>
+
 # Algumas Imagens
 
 <img src="https://github.com/lucasmlima08/Arduino-Ultrassonico-DispLCD-DispSegmentos/blob/master/img_2.jpg" width="450" />
