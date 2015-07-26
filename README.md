@@ -11,7 +11,7 @@ assim este projeto está contando apenas com o simulador de segurança.
 
 # Circuito
 > Neste protótipo foi utilizado um Arduino Mega, mas no projeto foi utilizado um Arduino Uno com uma placa de expansão. As conexões são exatamente iguais.
-<img src="https://github.com/lucasmlima08/DispLCD_DispSegmentos_Ultrassonico/blob/master/circuito.jpg" width="500"/>
+<img src="https://github.com/lucasmlima08/DispLCD_DispSegmentos_Ultrassonico/blob/master/circuit.jpg" width="500"/>
 
 # Algumas Imagens
 
